@@ -61,7 +61,7 @@ Stores fine details associated with users.
 
 ---
 
-## 👁️ View
+## View
 
 ### **USER_FINE View**
 
@@ -104,19 +104,4 @@ This view uses **JOINs and aggregation functions (SUM)** for reporting and analy
 3. The database `library` will be created with all tables and populated data.
 4. Run SELECT queries or views to explore the data.
 
----
-
-## 🎯 Learning Outcomes
-
-* Practical understanding of relational database design
-* Hands-on experience with SQL joins and views
-* Real-world data modeling for library systems
-* Experience handling database updates and integrity
-
----
-
-## 📌 Notes
-
-* The project uses realistic sample data for users, books, and transactions.
-* Designed for academic learning and demonstration purposes.
 
